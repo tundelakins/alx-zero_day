@@ -1,1 +1,1 @@
-echo "FileContent" > FileName
+git pull
